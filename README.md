@@ -1,5 +1,5 @@
 # Scribe OCR (CLI)
-This is a CLI interface for [Scribe OCR](https://github.com/scribeocr/scribeocr) which allows you to scan a single document on the command line.
+This is a barebones CLI interface for [Scribe OCR](https://github.com/scribeocr/scribeocr) which allows you to scan a single document on the command line without starting a server or using a website. The implementation uses the [Scribe.js](https://github.com/scribeocr/scribe.js) backend.
 
 On Linux, you can install and run the script directly:
 ```bash
