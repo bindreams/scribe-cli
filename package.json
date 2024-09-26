@@ -1,0 +1,11 @@
+{
+	"name": "scribe-cli",
+	"description": "description",
+	"authors": "author",
+	"version": "1.0.0",
+	"main": "main.js",
+	"type": "module",
+	"dependencies": {
+		"scribe.js-ocr": "https://github.com/scribeocr/scribe.js#0f040090317dd1ebee89fdd161b5accc363bd85d"
+	}
+}
